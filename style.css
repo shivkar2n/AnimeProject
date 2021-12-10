@@ -19,6 +19,35 @@ h1 {
     text-align: center;
 }
 
+.buttoncontainer {
+    padding-top: 100px;
+    width: 600px;
+    height: 200px;
+    text-align: center;
+}
+
+.playButton {
+    background-color: #44475a;
+    border: none;
+    color: white;
+    padding: 1px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.pauseButton {
+    background-color: #44475a;
+    border: none;
+    color: white;
+    padding: 1px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
 .column {
     position: relative;
     width: 25px;
